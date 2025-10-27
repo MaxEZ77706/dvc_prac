@@ -1,0 +1,7 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/shekmax0/dvc_prac
+    auth = basic
+    user = shekmax0
+    password = caeed8b8c386e7f9e707b688d0bf8a3f52f7ae81
