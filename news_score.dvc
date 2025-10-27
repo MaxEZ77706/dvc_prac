@@ -1,0 +1,6 @@
+outs:
+- md5: bd3d594e1dad65b5d738ed10a45bc56e.dir
+  size: 4414806
+  nfiles: 5
+  hash: md5
+  path: news_score
